@@ -7,6 +7,10 @@
  
 Hey there! I'm diving into programming and learning Python because I've always been intrigued by it. Turns out, it's not only really enjoyable but also potentially beneficial for my field in Business Management. Mastering coding might even open doors to a developer job someday! I'm loving the journey, having fun, and feeling accomplished when my code (even if simple). If you're curious about my progress, check out my project repositories, where I share basic projects that help me improve my skills. Got some exciting ideas for future projects too! Can't wait to connect with fellow coding enthusiasts, learn together, and immerse ourselves in this fantastic community! 😄
 
+<p align="center">
+  <img src="./_9af2d810-9576-41b6-8064-246bf81e4b8a.jpeg" alt="Alt text" width="200" style="border-radius: 50%;">
+</p>
+
 # German Articles Game
 
 This project introduces a game specifically designed to help German language learners of varying proficiency levels master the proper usage of German articles for nouns. I developed the game in response to the limited availability of high-quality applications that focus on this particular learning challenge.
