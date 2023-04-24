@@ -42,18 +42,18 @@ In conclusion, this game offers a valuable learning tool for German language lea
 - **Progress Tracking**: The game displays the ratio of correct to wrong answers, allowing users to track their progress and improvement over time.
 - **Extensive Noun List**: The game is based on a dictionary, "german_nouns", containing a list of over 1500 most commonly used German nouns and their corresponding articles.
 
-**Version 1**
+**Version 2**
 
 - **Display the article rules in the beginning, and a short version every time the user gets the question wrong**  
 - **English and potentially portuguese Translations**
 - **Include the plural forms**
 
-**Version 2**
+**Version 3**
 
 - **Make the questions that are incorrectly answered by the user more likely to be asked**
 - **Add user-selectable difficulty levels: Implement different difficulty levels by including categories of nouns, such as beginner, intermediate, and advanced.**
 
-**Version 3**
+**Version 4**
 
 - **Other games in the same theme, for example, adjective endings**
 - **Another Grammar related games in different languages, potentially Japanese**
