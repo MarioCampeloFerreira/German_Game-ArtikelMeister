@@ -35,18 +35,18 @@ In conclusion, this game offers a valuable learning tool for German language lea
 
 ## RoadMap
 
-**Current Version**
+**Current Version** (Day 1, 23rd april)
 
 - **Article Practice**: Players are presented with a German noun and must determine the appropriate article ("Der", "Die", or "Das") to accompany it.
 - **Instant Feedback**: Correct answers earn the player a point and a congratulatory message, while incorrect answers provide a feedback message with the correct article.
 - **Progress Tracking**: The game displays the ratio of correct to wrong answers, allowing users to track their progress and improvement over time.
 - **Extensive Noun List**: The game is based on a dictionary, "german_nouns", containing a list of over 1500 most commonly used German nouns and their corresponding articles.
 
-**Version 2**
+**Version 2** (Day 2, 24rd april)
 
-- **Display the article rules in the beginning, and a short version every time the user gets the question wrong**  
-- **English and potentially portuguese Translations**
-- **Include the plural forms**
+- **Display the article rules in the beginning, and a short version every time the user gets the question wrong**  (Done)
+- **English, portuguese and swiss Translations** (Done)
+- **Include the plural forms** (Done)
 
 **Version 3**
 
