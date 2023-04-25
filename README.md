@@ -48,12 +48,12 @@ In conclusion, this game offers a valuable learning tool for German language lea
 - **English, portuguese and swiss Translations** (Done)
 - **Include the plural forms** (Done)
 
-**Version 3**
+**Version 3** (Day 3, 25rd april)
 
 - **Make the questions that are incorrectly answered by the user more likely to be asked** (Done)
-- **Add user-selectable difficulty levels: Implement different difficulty levels by including categories of nouns, such as beginner, intermediate, and advanced.**
+- **Add user-selectable difficulty levels: Implement different difficulty levels by including categories of nouns, such as most common (Current), beginner, intermediate, and advanced.** (At the moment, I have not included this feature, as I am personally only interested on addressing the most common difficulty. However, if you would like me to add this feature (or any other), please let me know and I will be happy to do so!)
 
-**Version 4**
+**Future Versions** (if you have any other ideas let me know!)
 
 - **Other games in the same theme, for example, adjective endings**
 - **Another Grammar related games in different languages, potentially Japanese**
