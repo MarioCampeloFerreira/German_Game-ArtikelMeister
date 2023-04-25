@@ -50,7 +50,7 @@ In conclusion, this game offers a valuable learning tool for German language lea
 
 **Version 3**
 
-- **Make the questions that are incorrectly answered by the user more likely to be asked**
+- **Make the questions that are incorrectly answered by the user more likely to be asked** (Done)
 - **Add user-selectable difficulty levels: Implement different difficulty levels by including categories of nouns, such as beginner, intermediate, and advanced.**
 
 **Version 4**
