@@ -1,19 +1,23 @@
-<p align="center">
-  <img src="./_b467c087-d700-436e-85fd-86837c5c358d.jpeg" alt="Alt text" width="200" style="border-radius: 50%;">
-</p>
-
- 
- <h1 align="center">About me</h1>
- 
-Hey there! I'm diving into programming and learning Python because I've always been intrigued by it. Turns out, it's not only really enjoyable but also potentially beneficial for my field in Business Management. Mastering coding might even open doors to a developer job someday! I'm loving the journey, having fun, and feeling accomplished when my code (even if simple) works. If you're curious about my progress, check out my project repositories, where I share  projects that help me improve my skills. Got some exciting ideas for future projects too! Can't wait to connect with fellow coding enthusiasts, learn together, and immerse ourselves in this fantastic community! 😄
 
 <p align="center">
   <img src="./_9af2d810-9576-41b6-8064-246bf81e4b8a.jpeg" alt="Alt text" width="200" style="border-radius: 50%;">
 </p>
 
+
 # German Articles Game
 
-This project introduces a game specifically designed to help German language learners of varying proficiency levels master the proper usage of German articles for nouns. I developed the game in response to the limited availability of high-quality applications that focus on this particular learning challenge.
+Are you struggling to master the proper usage of German articles for nouns? Are you tired of searching for high-quality language learning apps that focus specifically on this challenge? Look no further than the German Articles Game!
+
+This game is designed to help German language learners of all proficiency levels improve their comprehension and application of German articles. In the game, players are presented with a German noun and must determine the appropriate article ("Der", "Die", or "Das") to accompany it. Correct answers earn the player a point and a congratulatory message, while incorrect answers provide a feedback message with the correct article.
+
+But the German Articles Game doesn't stop there. It also includes a progress tracking feature that displays the ratio of correct to wrong answers, allowing users to track their progress and improvement over time. This feature can be particularly motivating, as it helps users recognize their progress and encourages continued practice.
+
+And that's not all. The game is based on an extensive noun list containing over 3000 of the most commonly used German nouns and their corresponding articles. It also includes a display of article rules in the beginning and every time the user gets a question wrong, translations in English, Portuguese, and Swiss, plural forms, and the ability to choose between nouns with translations, without translations, or both.
+
+As of the current version (Version 3), the German Articles Game includes all the features of Versions 1, 2, and 3, making it a comprehensive and effective tool for mastering German articles. And with future versions in the works, users can expect even more features and improvements to enhance their learning experience.
+
+Don't let the challenge of German articles hold you back in your language learning journey. Try the German Articles Game today and start seeing real progress in your comprehension and application of German articles!
+
 
 ## Gameplay
 
@@ -32,6 +36,10 @@ Although this project is still relatively simple, I have many plans for its futu
 ## Conclusion
 
 In conclusion, this game offers a valuable learning tool for German language learners seeking to improve their comprehension and application of German articles for nouns. By enabling users to monitor their progress over time, the game fosters motivation and encourages continued practice. As the project evolves, users can expect even more features and improvements to enhance their learning experience.
+
+# TLDR
+
+This project introduces a game specifically designed to help German language learners of varying proficiency levels master the proper usage of German articles for nouns. I developed the game in response to the limited availability of high-quality applications that focus on this particular learning challenge.
 
 ## RoadMap
 
@@ -61,3 +69,23 @@ this version will be uploaded in next few days as i need to update and extend th
 - **Other games in the same theme, for example, adjective endings**
 - **Another Grammar related games in different languages, potentially Japanese**
 - **Develop an Android App**
+
+<p align="center">
+  <img src="./_b467c087-d700-436e-85fd-86837c5c358d.jpeg" alt="Alt text" width="200" style="border-radius: 50%;">
+</p>
+
+ 
+ <h1 align="center">About me</h1>
+ 
+Hey there! I'm diving into programming and learning Python because I've always been intrigued by it. Turns out, it's not only really enjoyable but also potentially beneficial for my field in Business Management. Mastering coding might even open doors to a developer job someday! I'm loving the journey, having fun, and feeling accomplished when my code (even if simple) works. If you're curious about my progress, check out my project repositories, where I share  projects that help me improve my skills. Got some exciting ideas for future projects too! Can't wait to connect with fellow coding enthusiasts, learn together, and immerse ourselves in this fantastic community! 😄
+
+
+<h1 align="center">Why I Developed the German Articles Game</h1>
+
+As a German language learner for 4 years now, I have faced challenges in mastering the proper usage of German articles for nouns, a common struggle among many German learners. While there are many language learning apps available, I found them either laden with ads or not functioning offline, which made it difficult for me to practice consistently.
+
+These challenges prompted me to develop the German Articles Game, a tool specifically designed to help German language learners improve their comprehension and application of German articles. The game provides a simple and effective way to practice German articles, with features such as progress tracking and an extensive noun list to facilitate learning.
+
+Apart from providing a valuable learning tool, developing this project also allowed me to improve my programming skills, particularly in Python. Through this project, I could apply my knowledge in a practical way and develop a tool that could benefit me and other German learners.
+
+In conclusion, my experience as a German learner and the challenges I faced inspired me to develop the German Articles Game, a tool that aims to provide an effective and convenient way for German learners to master the proper usage of German articles.
