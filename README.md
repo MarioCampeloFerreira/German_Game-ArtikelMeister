@@ -21,7 +21,7 @@ In the game, players are presented with a German noun and must determine the app
 
 ## Dictionary
 
-The game is based on a dictionary, "german_nouns", containing a list of over 1500 most commonly used German nouns and their corresponding articles. The gameplay involves randomly selecting a noun from this list, displaying it to the player, and prompting them to choose the correct article.
+The game is based on a dictionaries, containing a list of over 3000 most commonly used German nouns and their corresponding articles. The gameplay involves randomly selecting a noun from this list, displaying it to the player, and prompting them to choose the correct article.
 
 ## Future Improvements
 
@@ -35,7 +35,7 @@ In conclusion, this game offers a valuable learning tool for German language lea
 
 ## RoadMap
 
-**Current Version** (Day 1, 23rd april 2023)
+**Version 1** (Day 1, 23rd april 2023)
 
 - **Article Practice**: Players are presented with a German noun and must determine the appropriate article ("Der", "Die", or "Das") to accompany it.
 - **Instant Feedback**: Correct answers earn the player a point and a congratulatory message, while incorrect answers provide a feedback message with the correct article.
