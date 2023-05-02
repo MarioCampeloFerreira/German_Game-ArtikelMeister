@@ -4,7 +4,7 @@
 </p>
 
 
-# German Articles Game
+# ArtikelMeister a German Articles Game
 
 Are you struggling to master the proper usage of German articles for nouns? Are you tired of searching for high-quality language learning apps that focus specifically on this challenge? Look no further than the German Articles Game!
 
