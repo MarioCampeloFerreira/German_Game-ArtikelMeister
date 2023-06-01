@@ -65,8 +65,7 @@ This project introduces a game specifically designed to help German language lea
 **Version 4** (Day 4, 31 May 2023)
 
 - **Enhanced code readability for improved comprehension**
-- **Implemented the "end game" feature, allowing users to input "end game" at any point to view a game summary**
--   The summary includes a list of incorrect answers and the final score.
+- **Implemented the "end game" feature, allowing users to input "end game" at any point to view a game summary** (The summary includes a list of incorrect answers the final score and ratio)
 
 **Future Versions** (if you have any other ideas let me know!)
 
