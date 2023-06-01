@@ -62,7 +62,11 @@ This project introduces a game specifically designed to help German language lea
 - **Allow user to choose between nouns with translations without translations or both** (Done)
 - **User-selectable difficulty levels: Implement different difficulty levels by including categories of nouns, such as most common (Current), beginner, intermediate, and advanced.** (At the moment, I have not included this feature, as I am personally only interested on addressing the most common difficulty. However, if you would like me to add this feature (or any other), please let me know and I will be happy to do so!)
 
-this version will be uploaded in next few days as i need to update and extend the dictionary with all the translations
+**Version 4** (Day 4, 31 May 2023)
+
+- **Enhanced code readability for improved comprehension**
+- **Implemented the "end game" feature, allowing users to input "end game" at any point to view a game summary**
+The summary includes a list of incorrect answers and the final score.
 
 **Future Versions** (if you have any other ideas let me know!)
 
