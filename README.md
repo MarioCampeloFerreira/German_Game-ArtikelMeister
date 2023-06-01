@@ -68,7 +68,7 @@ this version will be uploaded in next few days as i need to update and extend th
 
 - **Highlight the rule that applies to noun in question if incorrectly answered**
 - **Other games in the same theme, for example, unregular verbs, adjective endings etc**
-- **Another Grammar related games in different languages, potentially Japanese**
+- **Another Grammar related games in different languages**
 - **Develop an Android App**
 
 <p align="center">
