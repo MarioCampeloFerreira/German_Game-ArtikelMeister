@@ -66,7 +66,7 @@ This project introduces a game specifically designed to help German language lea
 
 - **Enhanced code readability for improved comprehension**
 - **Implemented the "end game" feature, allowing users to input "end game" at any point to view a game summary**
-    The summary includes a list of incorrect answers and the final score.
+-   The summary includes a list of incorrect answers and the final score.
 
 **Future Versions** (if you have any other ideas let me know!)
 
