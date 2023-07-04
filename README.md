@@ -69,7 +69,8 @@ This project introduces a game specifically designed to help German language lea
 
 **Future Versions** (if you have any other ideas let me know!)
 
-- **Highlight the rule that applies to noun in question if incorrectly answered**
+- **Other games with the same theme, but focuses on unregular verbs instead of articles (uncompleted version can be found under VerbWunder)**
+- **Highlight the rule that applies to a noun in question if incorrectly answered**
 - **Other games in the same theme, for example, unregular verbs, adjective endings etc**
 - **Another Grammar related games in different languages**
 - **Develop an Android App**
